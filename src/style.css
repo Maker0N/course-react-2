@@ -1,0 +1,12 @@
+#root {
+  margin: 1rem;
+}
+
+.name {
+  display: inline-block;
+  width: 10rem;
+}
+
+.quant {
+  width: 5rem;;
+}
